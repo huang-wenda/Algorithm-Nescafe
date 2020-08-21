@@ -1,4 +1,4 @@
-package ArthmeticImpl.IsSubsequence.UseJava;
+package arthmeticImplement.isSubsequence.useJava;
 
 /**
  * 判断子序列-1

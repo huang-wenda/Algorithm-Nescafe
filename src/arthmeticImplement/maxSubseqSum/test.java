@@ -1,4 +1,4 @@
-package ArthmeticImpl.MaxSubseqSum;
+package arthmeticImplement.maxSubseqSum;
 
 public class test {
     public static void main(String[] args) {
