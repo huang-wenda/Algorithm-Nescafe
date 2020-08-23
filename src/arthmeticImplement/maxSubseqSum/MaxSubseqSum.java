@@ -1,4 +1,4 @@
-package arthmeticImplement.maxSubseqSum.useJava;
+package arthmeticImplement.maxSubseqSum;
 
 /**
  * ##### 给定K个整数组成的数列[N1,N2,N3...Nk]

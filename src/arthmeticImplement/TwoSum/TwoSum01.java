@@ -1,4 +1,4 @@
-package arthmeticImplement.TwoSum.useJava;
+package arthmeticImplement.TwoSum;
 
 import java.util.Arrays;
 
